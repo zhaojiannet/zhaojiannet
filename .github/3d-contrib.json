@@ -1,0 +1,37 @@
+{
+  "type": "normal",
+  "fileName": "profile-3d.svg",
+  "backgroundColor": "#fafbfd",
+  "foregroundColor": "#1e2a3b",
+  "strongColor": "#6d8fbd",
+  "weakColor": "#64748b",
+  "radarColor": "#6d8fbd",
+  "growingAnimation": true,
+  "contribColors": ["#eef3f9", "#c2d1e4", "#8aadd4", "#6d8fbd", "#5578a8"],
+  "l10n": {
+    "commit": "提交",
+    "repo": "仓库",
+    "review": "审查",
+    "pullreq": "合并请求",
+    "issue": "议题",
+    "contrib": "贡献"
+  },
+  "darkMode": {
+    "type": "normal",
+    "backgroundColor": "#151a21",
+    "foregroundColor": "#e2e8f0",
+    "strongColor": "#8aadd4",
+    "weakColor": "#6b7d8f",
+    "radarColor": "#8aadd4",
+    "growingAnimation": true,
+    "contribColors": ["#252e3a", "#3d5068", "#5578a8", "#6d8fbd", "#8aadd4"],
+    "l10n": {
+      "commit": "提交",
+      "repo": "仓库",
+      "review": "审查",
+      "pullreq": "合并请求",
+      "issue": "议题",
+      "contrib": "贡献"
+    }
+  }
+}
