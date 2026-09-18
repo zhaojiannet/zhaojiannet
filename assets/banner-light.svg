@@ -25,7 +25,7 @@
 
     <text x="56" y="92" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', 'Noto Sans CJK SC', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="44" font-weight="600" fill="#1e2a3b">赵健</text>
     <text x="164" y="92" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', 'Noto Sans CJK SC', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" fill="#6d8fbd">zhaoJian</text>
-    <text x="56" y="122" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', 'Noto Sans CJK SC', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#475569">全栈开发 · Go / Node.js / Vue · Claude Code</text>
+    <text x="56" y="122" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', 'Noto Sans CJK SC', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#475569">全栈开发 · Go / Node.js / Vue / Claude Code ...</text>
 
     <g font-family="'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14">
       <text x="56" y="164" fill="#6d8fbd">$</text>
