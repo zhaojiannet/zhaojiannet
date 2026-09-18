@@ -49,29 +49,6 @@
   <img src="https://img.shields.io/badge/Metasploit-6d8fbd?logo=metasploit&logoColor=white" alt="Metasploit">
 </p>
 
-## 开源项目
-
-<table>
-  <tr>
-    <td width="50%" valign="top"><a href="https://github.com/zhaojiannet/mms"><b>mms</b></a><br>Go 版通用会员管理系统，多租户 SaaS。收银、会员、预约、报表，面向美业、培训、宠物等行业。<br><sub>Go · PostgreSQL · Vue 3 · Docker</sub></td>
-    <td width="50%" valign="top"><a href="https://github.com/zhaojiannet/QingSi"><b>QingSi</b></a><br>通用会员管理系统，Node.js 版。收银、会员、预约、报表，面向美业、培训、宠物等行业。<br><sub>Vue 3 · Node.js · Fastify · MySQL · Docker</sub></td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top"><a href="https://github.com/zhaojiannet/canon"><b>canon</b></a><br>让 Claude Code 守规范的插件市场。lockstep 系列跟框架官方最新写法走，plain-chinese 强制平实中文。<br><sub>Claude Code · Astro · Vue · Nuxt UI · Tailwind · Go · Fastify</sub></td>
-    <td width="50%" valign="top"><a href="https://github.com/zhaojiannet/qq-mail-adblock"><b>qq-mail-adblock</b></a><br>新版 QQ 邮箱 VIP 会员广告屏蔽过滤规则，uBlock Origin 和油猴脚本两种用法。<br><sub>uBlock Origin · Tampermonkey · JavaScript</sub></td>
-  </tr>
-</table>
-
-## 最近文章
-
-<!-- BLOG-POST-LIST:START -->
-- 2026-06-04 · [Ghostty 终端 Fira Code 字体中文标点&lpar;问号？ 叹号！&rpar;显示异常的解决方法](https://www.zhaojian.net/ghostty-fira-code-chinese-punctuation-fix/)
-- 2026-05-14 · [使用 SlimBrave Neo 关闭 Brave 浏览器的 Leo AI、奖励、钱包等功能，免费实现 Brave Origin 效果](https://www.zhaojian.net/debloat-brave-browser-with-slimbrave-neo/)
-- 2026-05-05 · [微信公众号模板消息 notes 字段不显示问题排查与解决](https://www.zhaojian.net/wechat-official-account-template-message-notes-field-not-showing/)
-- 2026-04-23 · [Anthropic Claude 身份验证方法 Quick identity check Identity verification on Claude](https://www.zhaojian.net/quick-identity-check-identity-verification-on-claude/)
-- 2026-02-10 · [日本手机号码靓号查询工具（乐天、docomo、au、SoftBank、ahamo、povo、UQ、Y!mobile等）](https://www.zhaojian.net/rakuten-mobile-japan-premium-phone-number-lookup/)
-- 2026-02-07 · [免费体验Claude Code 分享3个Guest Pass（访客通行证）免费Claude Pro Max会员账号](https://www.zhaojian.net/free-claude-code-guest-pass-passes-share/)<!-- BLOG-POST-LIST:END -->
-
 ## 统计
 
 <p align="center">
@@ -83,6 +60,11 @@
     <img src="https://streak-stats.demolab.com?user=zhaojiannet&locale=zh_Hans&hide_border=true&border_radius=8&card_width=830&card_height=170&background=fafbfd&stroke=d8e0ea&ring=6d8fbd&fire=5578a8&currStreakNum=1e2a3b&sideNums=1e2a3b&currStreakLabel=6d8fbd&sideLabels=475569&dates=64748b" alt="连续提交">
   </picture>
 </p>
+
+## 最近文章
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ## 联系
 
