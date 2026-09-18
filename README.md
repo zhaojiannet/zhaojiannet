@@ -73,4 +73,13 @@
 
 ## 联系
 
-GitHub [@zhaojiannet](https://github.com/zhaojiannet) · X [@zhaoJianNet](https://x.com/zhaoJianNet) · 微信 / QQ 757118
+微信 / QQ 757118
+
+<details>
+  <summary>展开二维码</summary>
+  <p align="center">
+    <img src="https://www.zhaojian.net/images/wechat-qr.png" alt="微信二维码" width="180">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://www.zhaojian.net/images/qq-qr.png" alt="QQ 二维码" width="180">
+  </p>
+</details>
