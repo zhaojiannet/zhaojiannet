@@ -64,12 +64,12 @@
 ## 最近文章
 
 <!-- BLOG-POST-LIST:START -->
+- 2026-09-19 · [Ente Auth 在 Wayland 下无法运行、提示 No GL implementation is available 的解决方法](https://www.zhaojian.net/ente-auth-appimage-no-gl-implementation-wayland-fix/)
 - 2026-06-04 · [Ghostty 终端 Fira Code 字体中文标点&lpar;问号？ 叹号！&rpar;显示异常的解决方法](https://www.zhaojian.net/ghostty-fira-code-chinese-punctuation-fix/)
 - 2026-05-14 · [使用 SlimBrave Neo 关闭 Brave 浏览器的 Leo AI、奖励、钱包等功能，免费实现 Brave Origin 效果](https://www.zhaojian.net/debloat-brave-browser-with-slimbrave-neo/)
 - 2026-05-05 · [微信公众号模板消息 notes 字段不显示问题排查与解决](https://www.zhaojian.net/wechat-official-account-template-message-notes-field-not-showing/)
 - 2026-04-23 · [Anthropic Claude 身份验证方法 Quick identity check Identity verification on Claude](https://www.zhaojian.net/quick-identity-check-identity-verification-on-claude/)
-- 2026-02-10 · [日本手机号码靓号查询工具（乐天、docomo、au、SoftBank、ahamo、povo、UQ、Y!mobile等）](https://www.zhaojian.net/rakuten-mobile-japan-premium-phone-number-lookup/)
-- 2026-02-07 · [免费体验Claude Code 分享3个Guest Pass（访客通行证）免费Claude Pro Max会员账号](https://www.zhaojian.net/free-claude-code-guest-pass-passes-share/)<!-- BLOG-POST-LIST:END -->
+- 2026-02-10 · [日本手机号码靓号查询工具（乐天、docomo、au、SoftBank、ahamo、povo、UQ、Y!mobile等）](https://www.zhaojian.net/rakuten-mobile-japan-premium-phone-number-lookup/)<!-- BLOG-POST-LIST:END -->
 
 ## 联系
 
