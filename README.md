@@ -21,8 +21,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js,ts,go,php,py,bash,vue,nuxt,astro,tailwind,vite,nodejs,express,nestjs,laravel,wordpress,postgres,mysql,redis,nginx,linux,windows,apple,docker,kubernetes,cloudflare,vercel,vscode,git,postman,ps,ai&perline=13">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,go,php,py,bash,vue,nuxt,react,nextjs,astro,tailwind,bootstrap,vite,nodejs,express,nestjs,laravel,wordpress,postgres,mariadb,mysql,redis,nginx,linux,windows,apple,docker,cloudflare,vercel,vscode,git,ps,ai&perline=13&theme=light" alt="技术栈">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,ts,go,php,py,bash,vue,nuxt,astro,tailwind,vite,nodejs,npm,pnpm,express,nestjs,laravel,wordpress,postgres,mysql,redis,nginx,linux,debian,ubuntu,arch,windows,apple,docker,cloudflare,vercel,git,github,postman,ps,ai,aws,gcp&perline=13">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,go,php,py,bash,vue,nuxt,astro,tailwind,vite,nodejs,npm,pnpm,express,nestjs,laravel,wordpress,postgres,mysql,redis,nginx,linux,debian,ubuntu,arch,windows,apple,docker,cloudflare,vercel,git,github,postman,ps,ai,aws,gcp&perline=13&theme=light" alt="技术栈">
   </picture>
 </p>
 <p align="center">
