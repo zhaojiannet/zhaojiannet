@@ -49,37 +49,4 @@
   <img src="https://img.shields.io/badge/Metasploit-6d8fbd?logo=metasploit&logoColor=white" alt="Metasploit">
 </p>
 
-## 统计
 
-<p align="center">
-  <img src="profile-3d-contrib/profile-3d.svg" alt="3D 提交图" width="830">
-</p>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=zhaojiannet&locale=zh_Hans&hide_border=true&border_radius=8&card_width=830&card_height=170&background=151a21&stroke=2e3a48&ring=8aadd4&fire=a5c1e0&currStreakNum=e2e8f0&sideNums=e2e8f0&currStreakLabel=8aadd4&sideLabels=a8b5c4&dates=6b7d8f">
-    <img src="https://streak-stats.demolab.com?user=zhaojiannet&locale=zh_Hans&hide_border=true&border_radius=8&card_width=830&card_height=170&background=fafbfd&stroke=d8e0ea&ring=6d8fbd&fire=5578a8&currStreakNum=1e2a3b&sideNums=1e2a3b&currStreakLabel=6d8fbd&sideLabels=475569&dates=64748b" alt="连续提交">
-  </picture>
-</p>
-
-## 最近文章
-
-<!-- BLOG-POST-LIST:START -->
-- 2026-09-19 · [Ente Auth 在 Wayland 下无法运行、提示 No GL implementation is available 的解决方法](https://www.zhaojian.net/ente-auth-appimage-no-gl-implementation-wayland-fix/)
-- 2026-06-04 · [Ghostty 终端 Fira Code 字体中文标点&lpar;问号？ 叹号！&rpar;显示异常的解决方法](https://www.zhaojian.net/ghostty-fira-code-chinese-punctuation-fix/)
-- 2026-05-14 · [使用 SlimBrave Neo 关闭 Brave 浏览器的 Leo AI、奖励、钱包等功能，免费实现 Brave Origin 效果](https://www.zhaojian.net/debloat-brave-browser-with-slimbrave-neo/)
-- 2026-05-05 · [微信公众号模板消息 notes 字段不显示问题排查与解决](https://www.zhaojian.net/wechat-official-account-template-message-notes-field-not-showing/)
-- 2026-04-23 · [Anthropic Claude 身份验证方法 Quick identity check Identity verification on Claude](https://www.zhaojian.net/quick-identity-check-identity-verification-on-claude/)
-- 2026-02-10 · [日本手机号码靓号查询工具（乐天、docomo、au、SoftBank、ahamo、povo、UQ、Y!mobile等）](https://www.zhaojian.net/rakuten-mobile-japan-premium-phone-number-lookup/)<!-- BLOG-POST-LIST:END -->
-
-## 联系
-
-微信 / QQ 757118
-
-<details>
-  <summary>展开二维码</summary>
-  <p align="center">
-    <img src="https://www.zhaojian.net/images/wechat-qr.png" alt="微信二维码" width="180">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://www.zhaojian.net/images/qq-qr.png" alt="QQ 二维码" width="180">
-  </p>
-</details>
