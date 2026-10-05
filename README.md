@@ -21,8 +21,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,ts,go,php,py,bash,vue,nuxt,astro,tailwind,vite,nodejs,npm,pnpm,express,nestjs,laravel,wordpress,postgres,mysql,redis,nginx,linux,debian,ubuntu,arch,windows,apple,docker,cloudflare,vercel,git,github,postman,ps,ai,aws,gcp&perline=13">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,go,php,py,bash,vue,nuxt,astro,tailwind,vite,nodejs,npm,pnpm,express,nestjs,laravel,wordpress,postgres,mysql,redis,nginx,linux,debian,ubuntu,arch,windows,apple,docker,cloudflare,vercel,git,github,postman,ps,ai,aws,gcp&perline=13&theme=light" alt="技术栈">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,ts,go,php,py,bash,vue,nuxt,astro,tailwind,vite,nodejs,npm,pnpm,express,nestjs,laravel,wordpress,postgres,mysql,redis,nginx,linux,debian,ubuntu,arch,windows,apple,docker,cloudflare,vercel,git,github,postman,ps,ai,aws,gcp&perline=10">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,go,php,py,bash,vue,nuxt,astro,tailwind,vite,nodejs,npm,pnpm,express,nestjs,laravel,wordpress,postgres,mysql,redis,nginx,linux,debian,ubuntu,arch,windows,apple,docker,cloudflare,vercel,git,github,postman,ps,ai,aws,gcp&perline=10&theme=light" alt="技术栈">
   </picture>
 </p>
 <p align="center">
